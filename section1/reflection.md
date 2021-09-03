@@ -5,16 +5,21 @@ I already teach others what I know, if i just learned it, it helps to explain to
 What I want to incorporate into my habits is taking short breaks often to help retain the information.
 
 1. How would you print the string `"Hello World!"` to the terminal?
+
 ''' ruby
 puts "Hello World!"
 '''
 
 1. What character is used to indicate comments in a ruby file?
+
 '#'
+
 1. Explain the difference between an integer and a float?
+
 An integer is a whole number, a float is a number with a decimal point.
 
 1. In the space below, create a variable `animal` that holds the string `"zebra"`
+
 ''' ruby
 animal = "zebra"
 '''
