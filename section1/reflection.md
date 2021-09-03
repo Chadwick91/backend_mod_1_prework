@@ -22,7 +22,7 @@ An integer is a whole number, a float is a number with a decimal point.
 
 ``` ruby
 animal = "zebra"
-'''
+```
 
 1. How would you print the string `"zebra"` using the variable that you created above?
 ``` ruby
