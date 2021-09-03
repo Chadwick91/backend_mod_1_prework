@@ -2,6 +2,8 @@
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
+After completing the Mod0 sessions, I have seen people who ask questions right away, people who wait awhile and people who never ask. For myself, I am certainly one who likes to figure it out on my own before asking. I will admit I have found some answers by following a thread on slack of a question another student asked. As I continue, I know I will put a large effort into finding the solution on my own, but I will work on not hesitating to ask when I just can't figure it out. 
+
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
