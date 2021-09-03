@@ -42,4 +42,5 @@ The method used is `gets.chomp`.
 1. Name and describe two common string methods:
 
 `.split` is a method that takes a string and splits each word into an array. 
+
 `.length` is a method that tells you the length of a string including spaces. 
