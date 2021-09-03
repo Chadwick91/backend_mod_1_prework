@@ -5,8 +5,7 @@ I already teach others what I know, if i just learned it, it helps to explain to
 What I want to incorporate into my habits is taking short breaks often to help retain the information.
 
 1. How would you print the string `"Hello World!"` to the terminal?
-
-''' ruby
+'''ruby
 puts "Hello World!"
 '''
 
