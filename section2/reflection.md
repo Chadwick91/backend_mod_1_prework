@@ -8,15 +8,51 @@ After completing the Mod0 sessions, I have seen people who ask questions right a
 
 1. What is a conditional statement? Give three examples.
 
+A conditional statement evaluates to true or false. A few examples could be:
+```ruby
+cars = 5
+ if cars == 5 
+  puts "We have enough cars" 
+ elsif cars < 5 
+  puts "We need more cars"
+ elsif cars >= 6
+  puts "We have enough cars, and then some"
+ end
+ ```
+
 1. Why might you want to use an if-statement?
+
+You might want to use an `if` statement for knowing how to direct the users input, or producing a desired outcome based on the data available. 
 
 1. What is the Ruby syntax for an if statement?
 
+```ruby
+if cats <= 2 
+ puts "Not too many cats, we can handle this."
+end
+```
+
 1. How do you add multiple conditions to an if statement?
+
+You can add multiple conditions by using the character `;`. 
 
 1. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
+```ruby
+num_quarters = 6
+
+if num_quarters >= 4
+  puts "I have enough money for a soda."
+elsif num_quarters < 4 
+  puts "I dont have enough money for a soda."
+else 
+  puts "I'll just have some water."
+end
+```
+
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
+
+Honestly I guess until I learn another way, I can't think of a conditional that isn't an if statement. 
 
 ### Methods
 
